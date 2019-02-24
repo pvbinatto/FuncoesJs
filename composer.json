@@ -1,5 +1,5 @@
 {
-    "name": "vipsystem/validadoresJS",
+    "name": "vipsystem/validadores-js",
     "require": {
         "VipUtil/VipUtil": "1.0.*"
     }
