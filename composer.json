@@ -1,6 +1,13 @@
 {
     "name": "vipsystem/validadores-js",
-    "require": {
-        "VipUtil/VipUtil": "1.0.*"
-    }
-}
+    "description": "Arquivo para validar campos em JS",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Paulo Victor Binatto",
+            "email": "paulobinatto@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+ }
